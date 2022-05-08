@@ -2,7 +2,7 @@
 
 ![](header.png)
 
-## Description
+## คำอธิบาย
 
 เกม Tic-Tac-Toe ที่สร้างขึ้นโดยใช้ภาษา C เล่นได้ทุกเพศทุกวัย
 
@@ -48,7 +48,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 * 0.1
     * Initial Release
 
-## Team
+## สมาชิกใน Project
 
 [![Harsh Vijay](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
 ---|---
