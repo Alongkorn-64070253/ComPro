@@ -50,6 +50,6 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## สมาชิกใน Project
 
-[![Alongkorn](https://avatars.githubusercontent.com/u/88420514?s=400&u=c3162e47a7201015e3eb9a40faa72b9f42212939&v=4)](https://github.com/Alongkorn-64070253)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
+[![Alongkorn](https://avatars.githubusercontent.com/u/88420514?s=400&u=c3162e47a7201015e3eb9a40faa72b9f42212939&v=4)](https://github.com/Alongkorn-64070253) | [![Traitam](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/) | [![Chayanut]()]()
 ---|---
-[นายอลงกรณ์ จุฑาทัศน์ 64070253](https://github.com/Alongkorn-64070253) |[Quandl](https://www.quandl.com)
+[นายอลงกรณ์ จุฑาทัศน์ 64070253](https://github.com/Alongkorn-64070253) |[นายตรัยธรรม แสงเดือน 64070150](https://www.quandl.com) |[นายชยณัฐ ศุทธยาลัย 64070136()
