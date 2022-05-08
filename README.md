@@ -28,8 +28,6 @@ code blocks for commands
 
 ## ผู้จัดทำ
 
-รายชื่อผู้จัดทำ
-
 ex. Alongkorn-64070253
 
 ## Version History
