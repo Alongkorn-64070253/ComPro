@@ -1,12 +1,10 @@
-# Project Title
-
-Simple overview of use/purpose.
+# Project ComPro Tic-Tac-Toe
 
 ![](header.png)
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+เกม Tic-Tac-Toe ที่สร้างขึ้นโดยใช้ภาษา C เล่นได้ทุกเพศทุกวัย
 
 ## Getting Started
 
