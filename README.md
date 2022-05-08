@@ -26,12 +26,11 @@
 code blocks for commands
 ```
 
-## Authors
+## ผู้จัดทำ
 
-Contributors names and contact info
+รายชื่อผู้จัดทำ
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. Alongkorn-64070253
 
 ## Version History
 
