@@ -10,8 +10,8 @@
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* ระบบปฎิบัติการที่สามารถรันภาษา C ได้
+* ยกตัวอย่างเช่น Window 10
 
 ### Installing
 
